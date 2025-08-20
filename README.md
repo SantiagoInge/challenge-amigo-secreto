@@ -12,7 +12,7 @@ Desarrollar una aplicación funcional y accesible que ponga en práctica concept
 
 ## Funcionalidades principales
 - **Registro de participantes**: ingreso dinámico de nombres en una lista.  
-- **Validación de entradas**: evita valores vacíos o repetidos.  
+- **Validación de entradas**: evita valores vacíos.  
 - **Selección aleatoria**: asignación automática y justa mediante algoritmo en JavaScript.  
 - **Interfaz intuitiva**: diseño claro y fácil de interpretar para cualquier usuario.  
 
@@ -21,7 +21,7 @@ Desarrollar una aplicación funcional y accesible que ponga en práctica concept
 ## Tecnologías utilizadas
 - **HTML5** → estructura del contenido.  
 - **CSS3** → estilos y diseño visual.  
-- **JavaScript (Vanilla)** → implementación de la lógica del sistema.  
+- **JavaScript** → implementación de la lógica del sistema.  
 
 ---
 
